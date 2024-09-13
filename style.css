@@ -1,0 +1,15 @@
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.images {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    justify-content: space-around;
+}
+img{
+    display: flex;
+    justify-content: space-around;
+}
